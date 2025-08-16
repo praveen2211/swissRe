@@ -1,2 +1,0 @@
-# swissRe
-Assignment
